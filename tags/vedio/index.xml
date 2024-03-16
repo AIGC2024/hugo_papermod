@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Vedio on BrainBytes</title>
+    <link>https://aigc2024.github.io/hugo_papermod/tags/vedio/</link>
+    <description>Recent content in Vedio on BrainBytes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Mar 2024 23:02:20 +0800</lastBuildDate>
+    <atom:link href="https://aigc2024.github.io/hugo_papermod/tags/vedio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>pdf_bili_youtube_test</title>
+      <link>https://aigc2024.github.io/hugo_papermod/posts/ppt_blibli_youtube/</link>
+      <pubDate>Mon, 11 Mar 2024 23:02:20 +0800</pubDate>
+      <guid>https://aigc2024.github.io/hugo_papermod/posts/ppt_blibli_youtube/</guid>
+      <description>This a heading one! This a head two! This is the paragraph! &lt;!DOCTYPE HTML&gt;————————————————版权声明：本文为「Sulv&#39;s Blog」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。原文链接：https://www.sulvblog.cn/posts/blog/shortcodes/ #{a{&amp;lt; ppt src=&amp;ldquo;ppt网址&amp;rdquo; &amp;gt;}}
+使用的时候把字母a去掉，我加上是为了防止被识别生效 &lt;!DOCTYPE HTML&gt;————————————————版权声明：本文为「Sulv&#39;s Blog」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。原文链接：https://www.sulvblog.cn/posts/blog/shortcodes/
+BV122421K7RZ ———————————————— 【AIGC】First日期: 2024-03-15&amp;nbsp;标签:#html&amp;nbsp;#css&amp;nbsp;This a heading one! This a head two! This is the paragraph! ......————————————————版权声明：本文为「Sulv&#39;s Blog」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。原文链接：https://www.sulvblog.cn/posts/blog/shortcodes/
+———————————————— 版权声明：本文为「Sulv&amp;rsquo;s Blog」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。 原文链接：https://www.sulvblog.cn/posts/blog/shortcodes/#62-bilibili-%e8%a7%86%e9%a2%91 版权声明：本文为「Sulv&amp;rsquo;s Blog」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。 原文链接：https://www.</description>
+    </item>
+  </channel>
+</rss>
