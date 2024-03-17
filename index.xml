@@ -2,52 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>BrainBytes</title>
-    <link>http://localhost:1313/hugo_papermod/</link>
+    <link>https://aigc2024.github.io/</link>
     <description>Recent content on BrainBytes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 17 Mar 2024 12:37:43 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/hugo_papermod/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://aigc2024.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Math</title>
-      <link>http://localhost:1313/hugo_papermod/posts/math/</link>
+      <link>https://aigc2024.github.io/posts/math/</link>
       <pubDate>Sun, 17 Mar 2024 12:37:43 +0800</pubDate>
-      <guid>http://localhost:1313/hugo_papermod/posts/math/</guid>
-      <description>$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$</description>
+      <guid>https://aigc2024.github.io/posts/math/</guid>
+      <description>行中公式示例: $\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$
+$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6} $ 独立公式示例：$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
+修改extend_head.html 以下都以网站根目录作为当前路径进行说明： 如果layouts/partials/extend_head.html存在，则直接在最后进行添加；如果不存在，则新建该路径并复制指定文件到该目录进行编辑。命令如下：
+adddads=23 使用方法 在要用数学公式的文章的front matter添加如下字段即可使用： math: true # 是否开启mathjax 同时可以在archetypes/defaults.md里加入上面的设置，这样每次创建新文章时都会自动添加该字段。另外将true改为false，即可在该文章中关闭数学公式功能。
+使用格式和Markdown数学公式的格式一样，需要注意一下存在转义的字符，下面是一个例子，转义*写作*。
+$$0.414213562373095048\approx6*16^{-1}+a*16^{-2}+0*16^{-3}+\cdots$$ 0.414213562373095048 ≈ 6 ∗ 1 6 − 1 + � ∗ 1 6 − 2 + 0 ∗ 1 6 − 3 + ⋯ 0.414213562373095048≈6∗16 −1 +a∗16 −2 +0∗16 −3 +⋯
+引用 How to enable Math Typesetting in PaperMod? Auto-render Extension 建站</description>
     </item>
     <item>
       <title>【python】ssssTesting</title>
-      <link>http://localhost:1313/hugo_papermod/posts/netesting/</link>
+      <link>https://aigc2024.github.io/posts/netesting/</link>
       <pubDate>Sat, 16 Mar 2024 13:22:47 +0800</pubDate>
-      <guid>http://localhost:1313/hugo_papermod/posts/netesting/</guid>
+      <guid>https://aigc2024.github.io/posts/netesting/</guid>
       <description></description>
     </item>
     <item>
       <title>【python】Testing regular</title>
-      <link>http://localhost:1313/hugo_papermod/posts/testing/</link>
+      <link>https://aigc2024.github.io/posts/testing/</link>
       <pubDate>Sat, 16 Mar 2024 13:22:47 +0800</pubDate>
-      <guid>http://localhost:1313/hugo_papermod/posts/testing/</guid>
+      <guid>https://aigc2024.github.io/posts/testing/</guid>
       <description>&lt;!DOCTYPE HTML&gt;————————————————版权声明：本文为「Sulv&#39;s Blog」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。原文链接：https://www.sulvblog.cn/posts/blog/shortcodes/ </description>
     </item>
     <item>
       <title>【AIGC】First</title>
-      <link>http://localhost:1313/hugo_papermod/posts/first/</link>
+      <link>https://aigc2024.github.io/posts/first/</link>
       <pubDate>Fri, 15 Mar 2024 23:02:20 +0800</pubDate>
-      <guid>http://localhost:1313/hugo_papermod/posts/first/</guid>
+      <guid>https://aigc2024.github.io/posts/first/</guid>
       <description>This a heading one! This a head two! This is the paragraph!</description>
     </item>
     <item>
       <title>【java】Second sadfghjkjdghfgf</title>
-      <link>http://localhost:1313/hugo_papermod/posts/second/</link>
+      <link>https://aigc2024.github.io/posts/second/</link>
       <pubDate>Fri, 15 Mar 2024 23:02:20 +0800</pubDate>
-      <guid>http://localhost:1313/hugo_papermod/posts/second/</guid>
+      <guid>https://aigc2024.github.io/posts/second/</guid>
       <description>This a heading one! This a head two! This is the paragraph!a</description>
     </item>
     <item>
       <title>pdf_bili_youtube_test</title>
-      <link>http://localhost:1313/hugo_papermod/posts/ppt_blibli_youtube/</link>
+      <link>https://aigc2024.github.io/posts/ppt_blibli_youtube/</link>
       <pubDate>Mon, 11 Mar 2024 23:02:20 +0800</pubDate>
-      <guid>http://localhost:1313/hugo_papermod/posts/ppt_blibli_youtube/</guid>
+      <guid>https://aigc2024.github.io/posts/ppt_blibli_youtube/</guid>
       <description>This a heading one! This a head two! This is the paragraph! &lt;!DOCTYPE HTML&gt;————————————————版权声明：本文为「Sulv&#39;s Blog」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。原文链接：https://www.sulvblog.cn/posts/blog/shortcodes/ #{a{&amp;lt; ppt src=&amp;ldquo;ppt网址&amp;rdquo; &amp;gt;}}
 使用的时候把字母a去掉，我加上是为了防止被识别生效 &lt;!DOCTYPE HTML&gt;————————————————版权声明：本文为「Sulv&#39;s Blog」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。原文链接：https://www.sulvblog.cn/posts/blog/shortcodes/
 BV122421K7RZ ———————————————— 【AIGC】First日期: 2024-03-15&amp;nbsp;标签:#html&amp;nbsp;#css&amp;nbsp;This a heading one! This a head two! This is the paragraph! ......————————————————版权声明：本文为「Sulv&#39;s Blog」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。原文链接：https://www.sulvblog.cn/posts/blog/shortcodes/
@@ -55,9 +61,9 @@ BV122421K7RZ ———————————————— 【AIGC】First�
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/hugo_papermod/posts/blog/</link>
+      <link>https://aigc2024.github.io/posts/blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo_papermod/posts/blog/</guid>
+      <guid>https://aigc2024.github.io/posts/blog/</guid>
       <description></description>
     </item>
   </channel>
