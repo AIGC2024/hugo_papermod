@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://aigc2024.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2024-03-17T12:37:43+08:00</lastmod>
   </url><url>
-    <loc>https://aigc2024.github.io/posts/math/</loc>
+    <loc>/posts/math/</loc>
     <lastmod>2024-03-17T12:37:43+08:00</lastmod>
   </url><url>
-    <loc>https://aigc2024.github.io/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2024-03-17T12:37:43+08:00</lastmod>
   </url><url>
-    <loc>https://aigc2024.github.io/posts/netesting/</loc>
+    <loc>/posts/netesting/</loc>
     <lastmod>2024-03-16T13:22:47+08:00</lastmod>
   </url><url>
-    <loc>https://aigc2024.github.io/posts/testing/</loc>
+    <loc>/posts/testing/</loc>
     <lastmod>2024-03-16T13:22:47+08:00</lastmod>
   </url><url>
-    <loc>https://aigc2024.github.io/posts/first/</loc>
+    <loc>/posts/first/</loc>
     <lastmod>2024-03-15T23:02:20+08:00</lastmod>
   </url><url>
-    <loc>https://aigc2024.github.io/posts/second/</loc>
+    <loc>/posts/second/</loc>
     <lastmod>2024-03-15T23:02:20+08:00</lastmod>
   </url><url>
-    <loc>https://aigc2024.github.io/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2024-03-15T23:02:20+08:00</lastmod>
   </url><url>
-    <loc>https://aigc2024.github.io/tags/css/</loc>
+    <loc>/tags/css/</loc>
     <lastmod>2024-03-15T23:02:20+08:00</lastmod>
   </url><url>
-    <loc>https://aigc2024.github.io/tags/html/</loc>
+    <loc>/tags/html/</loc>
     <lastmod>2024-03-15T23:02:20+08:00</lastmod>
   </url><url>
-    <loc>https://aigc2024.github.io/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2024-03-15T23:02:20+08:00</lastmod>
   </url><url>
-    <loc>https://aigc2024.github.io/categories/tech/</loc>
+    <loc>/categories/tech/</loc>
     <lastmod>2024-03-15T23:02:20+08:00</lastmod>
   </url><url>
-    <loc>https://aigc2024.github.io/tags/pdf/</loc>
+    <loc>/tags/pdf/</loc>
     <lastmod>2024-03-11T23:02:20+08:00</lastmod>
   </url><url>
-    <loc>https://aigc2024.github.io/posts/ppt_blibli_youtube/</loc>
+    <loc>/posts/ppt_blibli_youtube/</loc>
     <lastmod>2024-03-11T23:02:20+08:00</lastmod>
   </url><url>
-    <loc>https://aigc2024.github.io/tags/vedio/</loc>
+    <loc>/tags/vedio/</loc>
     <lastmod>2024-03-11T23:02:20+08:00</lastmod>
   </url><url>
-    <loc>https://aigc2024.github.io/posts/blog/</loc>
+    <loc>/posts/blog/</loc>
   </url><url>
-    <loc>https://aigc2024.github.io/archives/</loc>
+    <loc>/archives/</loc>
   </url><url>
-    <loc>https://aigc2024.github.io/series/</loc>
+    <loc>/series/</loc>
   </url>
 </urlset>
