@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on BrainBytes</title>
-    <link>https://aigc2024.github.io/hugo_papermod/tags/</link>
+    <link>http://localhost:1313/hugo_papermod/tags/</link>
     <description>Recent content in Tags on BrainBytes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 15 Mar 2024 23:02:20 +0800</lastBuildDate>
-    <atom:link href="https://aigc2024.github.io/hugo_papermod/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/hugo_papermod/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Css</title>
-      <link>https://aigc2024.github.io/hugo_papermod/tags/css/</link>
+      <link>http://localhost:1313/hugo_papermod/tags/css/</link>
       <pubDate>Fri, 15 Mar 2024 23:02:20 +0800</pubDate>
-      <guid>https://aigc2024.github.io/hugo_papermod/tags/css/</guid>
+      <guid>http://localhost:1313/hugo_papermod/tags/css/</guid>
       <description></description>
     </item>
     <item>
       <title>Html</title>
-      <link>https://aigc2024.github.io/hugo_papermod/tags/html/</link>
+      <link>http://localhost:1313/hugo_papermod/tags/html/</link>
       <pubDate>Fri, 15 Mar 2024 23:02:20 +0800</pubDate>
-      <guid>https://aigc2024.github.io/hugo_papermod/tags/html/</guid>
+      <guid>http://localhost:1313/hugo_papermod/tags/html/</guid>
       <description></description>
     </item>
     <item>
       <title>PDF</title>
-      <link>https://aigc2024.github.io/hugo_papermod/tags/pdf/</link>
+      <link>http://localhost:1313/hugo_papermod/tags/pdf/</link>
       <pubDate>Mon, 11 Mar 2024 23:02:20 +0800</pubDate>
-      <guid>https://aigc2024.github.io/hugo_papermod/tags/pdf/</guid>
+      <guid>http://localhost:1313/hugo_papermod/tags/pdf/</guid>
       <description></description>
     </item>
     <item>
       <title>Vedio</title>
-      <link>https://aigc2024.github.io/hugo_papermod/tags/vedio/</link>
+      <link>http://localhost:1313/hugo_papermod/tags/vedio/</link>
       <pubDate>Mon, 11 Mar 2024 23:02:20 +0800</pubDate>
-      <guid>https://aigc2024.github.io/hugo_papermod/tags/vedio/</guid>
+      <guid>http://localhost:1313/hugo_papermod/tags/vedio/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,52 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://aigc2024.github.io/hugo_papermod/posts/netesting/</loc>
+    <loc>http://localhost:1313/hugo_papermod/</loc>
+    <lastmod>2024-03-17T12:37:43+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugo_papermod/posts/math/</loc>
+    <lastmod>2024-03-17T12:37:43+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugo_papermod/posts/</loc>
+    <lastmod>2024-03-17T12:37:43+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugo_papermod/posts/netesting/</loc>
     <lastmod>2024-03-16T13:22:47+08:00</lastmod>
   </url><url>
-    <loc>https://aigc2024.github.io/hugo_papermod/posts/testing/</loc>
+    <loc>http://localhost:1313/hugo_papermod/posts/testing/</loc>
     <lastmod>2024-03-16T13:22:47+08:00</lastmod>
   </url><url>
-    <loc>https://aigc2024.github.io/hugo_papermod/</loc>
-    <lastmod>2024-03-16T13:22:47+08:00</lastmod>
-  </url><url>
-    <loc>https://aigc2024.github.io/hugo_papermod/posts/</loc>
-    <lastmod>2024-03-16T13:22:47+08:00</lastmod>
-  </url><url>
-    <loc>https://aigc2024.github.io/hugo_papermod/posts/first/</loc>
+    <loc>http://localhost:1313/hugo_papermod/posts/first/</loc>
     <lastmod>2024-03-15T23:02:20+08:00</lastmod>
   </url><url>
-    <loc>https://aigc2024.github.io/hugo_papermod/posts/second/</loc>
+    <loc>http://localhost:1313/hugo_papermod/posts/second/</loc>
     <lastmod>2024-03-15T23:02:20+08:00</lastmod>
   </url><url>
-    <loc>https://aigc2024.github.io/hugo_papermod/categories/</loc>
+    <loc>http://localhost:1313/hugo_papermod/categories/</loc>
     <lastmod>2024-03-15T23:02:20+08:00</lastmod>
   </url><url>
-    <loc>https://aigc2024.github.io/hugo_papermod/tags/css/</loc>
+    <loc>http://localhost:1313/hugo_papermod/tags/css/</loc>
     <lastmod>2024-03-15T23:02:20+08:00</lastmod>
   </url><url>
-    <loc>https://aigc2024.github.io/hugo_papermod/tags/html/</loc>
+    <loc>http://localhost:1313/hugo_papermod/tags/html/</loc>
     <lastmod>2024-03-15T23:02:20+08:00</lastmod>
   </url><url>
-    <loc>https://aigc2024.github.io/hugo_papermod/tags/</loc>
+    <loc>http://localhost:1313/hugo_papermod/tags/</loc>
     <lastmod>2024-03-15T23:02:20+08:00</lastmod>
   </url><url>
-    <loc>https://aigc2024.github.io/hugo_papermod/categories/tech/</loc>
+    <loc>http://localhost:1313/hugo_papermod/categories/tech/</loc>
     <lastmod>2024-03-15T23:02:20+08:00</lastmod>
   </url><url>
-    <loc>https://aigc2024.github.io/hugo_papermod/tags/pdf/</loc>
+    <loc>http://localhost:1313/hugo_papermod/tags/pdf/</loc>
     <lastmod>2024-03-11T23:02:20+08:00</lastmod>
   </url><url>
-    <loc>https://aigc2024.github.io/hugo_papermod/posts/ppt_blibli_youtube/</loc>
+    <loc>http://localhost:1313/hugo_papermod/posts/ppt_blibli_youtube/</loc>
     <lastmod>2024-03-11T23:02:20+08:00</lastmod>
   </url><url>
-    <loc>https://aigc2024.github.io/hugo_papermod/tags/vedio/</loc>
+    <loc>http://localhost:1313/hugo_papermod/tags/vedio/</loc>
     <lastmod>2024-03-11T23:02:20+08:00</lastmod>
   </url><url>
-    <loc>https://aigc2024.github.io/hugo_papermod/posts/blog/</loc>
+    <loc>http://localhost:1313/hugo_papermod/posts/blog/</loc>
   </url><url>
-    <loc>https://aigc2024.github.io/hugo_papermod/archives/</loc>
+    <loc>http://localhost:1313/hugo_papermod/archives/</loc>
   </url><url>
-    <loc>https://aigc2024.github.io/hugo_papermod/series/</loc>
+    <loc>http://localhost:1313/hugo_papermod/series/</loc>
   </url>
 </urlset>
