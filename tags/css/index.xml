@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Css on BrainBytes</title>
-    <link>https://aigc2024.github.io/hugo_papermod/tags/css/</link>
+    <link>x.old-labs.com/tags/css/</link>
     <description>Recent content in Css on BrainBytes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 15 Mar 2024 23:02:20 +0800</lastBuildDate>
-    <atom:link href="https://aigc2024.github.io/hugo_papermod/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="x.old-labs.com/tags/css/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【AIGC】First</title>
-      <link>https://aigc2024.github.io/hugo_papermod/posts/first/</link>
+      <link>x.old-labs.com/posts/first/</link>
       <pubDate>Fri, 15 Mar 2024 23:02:20 +0800</pubDate>
-      <guid>https://aigc2024.github.io/hugo_papermod/posts/first/</guid>
+      <guid>x.old-labs.com/posts/first/</guid>
       <description>This a heading one! This a head two! This is the paragraph!</description>
     </item>
   </channel>
