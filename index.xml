@@ -13,7 +13,7 @@
       <link>https://x.old-labs.com/posts/math/</link>
       <pubDate>Sun, 17 Mar 2024 12:37:43 +0800</pubDate>
       <guid>https://x.old-labs.com/posts/math/</guid>
-      <description>行中公式示例: $\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$ $\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6} $ 独立公式示例：$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$ 修改extend_head.html 以下都以网站根目录作为当前路径进行说明： 如果layouts/partials/extend_head.html存在，则直接在最后进行添加；如果不存在，则新建该路径并</description>
+      <description>行中公式示例: $\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$ $\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6} $ 独立公式示例：$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$ 修改extend_head.html 以下都以网站根目录作为当前路径进行说明:： 如果layouts/partials/extend_head.html存在，则直接在最后进行添加；如果不存在，则新建该路径</description>
     </item>
     <item>
       <title>【python】ssssTesting</title>
